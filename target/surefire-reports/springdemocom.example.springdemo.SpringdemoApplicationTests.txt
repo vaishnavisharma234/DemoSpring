@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: springdemocom.example.springdemo.SpringdemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.76 s - in springdemocom.example.springdemo.SpringdemoApplicationTests
